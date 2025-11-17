@@ -6,7 +6,11 @@
 
 This repository contains firmware and schematics of the [Every Day Calendar](https://www.kickstarter.com/projects/simonegiertz/the-every-day-calendar) project.
 
-Please note that this is a finished project. The files are provided as is and we will not be maintaining this repository.
+The repository is a **GitHub fork/mirror** of the original project by Simone Giertz, originally hosted here:  
+🔗 **https://gitlab.com/simonegiertz/the-every-day-calendar**
+
+This fork exists to make the firmware easier to access, work on, and improve within the GitHub ecosystem.  
+The original commit history and authorship should remain preserved.
 
 
 ## Installation
@@ -14,7 +18,7 @@ Please note that this is a finished project. The files are provided as is and we
 To download the firmware and schematic files, run the following command on your terminal:
 
 
-    git clone https://gitlab.com/simonegiertz/the-every-day-calendar.git
+    git clone https://github.com/int21/the-every-day-calendar.git
 ## Firmware
 
 ### Connecting the Every Day Calendar to the Arduino IDE
